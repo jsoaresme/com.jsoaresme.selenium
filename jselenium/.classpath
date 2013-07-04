@@ -23,5 +23,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Selenium"/>
+	<classpathentry kind="lib" path="D:/dev/Selenium/selenium-2.32.0/selenium-server-standalone-2.32.0.jar"/>
+	<classpathentry kind="lib" path="D:/dev/Selenium/selenium-2.32.0/selenium-2.32.0/selenium-java-2.32.0.jar"/>
+	<classpathentry kind="lib" path="D:/dev/Selenium/selenium-2.32.0/selenium-2.32.0/selenium-java-2.32.0-srcs.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
