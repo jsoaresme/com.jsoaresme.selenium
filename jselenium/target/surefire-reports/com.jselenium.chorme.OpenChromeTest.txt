@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: com.jselenium.chorme.OpenChromeTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.096 sec <<< FAILURE!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.097 sec <<< FAILURE!
 openWebChrome(com.jselenium.chorme.OpenChromeTest)  Time elapsed: 0.019 sec  <<< ERROR!
 java.lang.NoClassDefFoundError: org/openqa/selenium/chrome/ChromeDriver
 	at com.jselenium.chorme.OpenChromeTest.openWebChrome(OpenChromeTest.java:14)
