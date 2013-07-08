@@ -1,5 +1,5 @@
-[-0.000][INFO]:     ChromeDriver 26.0.1383.0 C:\chromedriver.exe
-[1.349][FINE]:      Initializing session with capabilities {
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 C:\chromedriver.exe
+[0.324][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chrome.switches": [  ],
    "chromeOptions": {
@@ -10,11 +10,11 @@
    "version": ""
 }
 
-[1.350][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
-[3.187][INFO]:      Connected to Chrome successfully. Version: 27.0.1453.116
-[3.330][FINE]:      Command received (/session/2fca362843c01eda4bc77a8ba18b7150)
-[3.331][FINE]:      Command finished (/session/2fca362843c01eda4bc77a8ba18b7150) with response {
-   "sessionId": "2fca362843c01eda4bc77a8ba18b7150",
+[0.357][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
+[3.431][INFO]:      Connected to Chrome successfully. Version: 27.0.1453.116
+[3.586][FINE]:      Command received (/session/30ed53ea5f1f650c19107892b33a69ca)
+[3.587][FINE]:      Command finished (/session/30ed53ea5f1f650c19107892b33a69ca) with response {
+   "sessionId": "30ed53ea5f1f650c19107892b33a69ca",
    "status": 0,
    "value": {
       "acceptSslCerts": false,
@@ -36,16 +36,16 @@
    }
 }
 
-[3.405][FINE]:      Command received (/session/2fca362843c01eda4bc77a8ba18b7150/url) with params {
+[3.644][FINE]:      Command received (/session/30ed53ea5f1f650c19107892b33a69ca/url) with params {
    "url": "https://www.google.com.br/"
 }
 
-[3.405][FINER]:     Waiting for all views to stop loading...
-[3.406][FINER]:     Done waiting for all views to stop loading
-[6.982][FINER]:     Waiting for all views to stop loading...
-[6.984][FINER]:     Done waiting for all views to stop loading
-[6.984][FINE]:      Command finished (/session/2fca362843c01eda4bc77a8ba18b7150/url) with response {
-   "sessionId": "2fca362843c01eda4bc77a8ba18b7150",
+[3.644][FINER]:     Waiting for all views to stop loading...
+[3.645][FINER]:     Done waiting for all views to stop loading
+[6.764][FINER]:     Waiting for all views to stop loading...
+[6.764][FINER]:     Done waiting for all views to stop loading
+[6.764][FINE]:      Command finished (/session/30ed53ea5f1f650c19107892b33a69ca/url) with response {
+   "sessionId": "30ed53ea5f1f650c19107892b33a69ca",
    "status": 0,
    "value": {
 

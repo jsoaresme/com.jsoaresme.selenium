@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.jselenium.test.ChormeTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.89 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.392 sec
