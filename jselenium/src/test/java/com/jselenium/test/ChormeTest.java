@@ -9,7 +9,7 @@ public class ChormeTest {
 	public void openWebChrome() {
 		String url;
 		url = "https://www.google.com.br/";
-		System.out.println("\n" + "- Open Chrome");
+		System.out.println("\n" + "- Open Chrome...");
 		System.setProperty("webdriver.chrome.driver", "\\chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get(url);
